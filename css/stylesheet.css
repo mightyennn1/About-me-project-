@@ -2,15 +2,15 @@
 /* CSS Document */
 body {background-color: darkgray; }
 h1 {text-align: center; font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
-font-style: italic; color:darkgoldenrod;}
+font-style: italic; color:black;}
 
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-	width: 40%}
+	width: 100%}
 p{font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif"; font-style: italic;
-text-align: left; color: darkgoldenrod;
+text-align: left; color:black;
 }
 table, th, td {
   border: 1px solid #8A8A8A;
@@ -35,3 +35,5 @@ table, th, td {
   background-color: #ddd;
   color: black;
 }
+
+tr {color:black}
